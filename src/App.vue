@@ -593,11 +593,11 @@ body, h1, h2, h3, h4, h5, h6 {
     left: 0;
   }
   .modal-title {
-    font-size: 1.35rem;
-    margin-bottom: 0.7rem;
+    font-size: 1.2rem;
+    margin-bottom: 0.4rem;
   }
   .modal-body {
-    font-size: 0.97rem;
+    font-size: 0.72rem;
     line-height: 1.7;
     padding: 0;
   }
