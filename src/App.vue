@@ -5,10 +5,10 @@
       <div class="flex flex-col justify-center h-full">
         <h1 id="headline" class="text-white font-serif font-bold leading-none select-none opacity-0 text-[3.5rem] sm:text-[5rem] md:text-[7rem] lg:text-[8.5rem]" style="line-height:1.05;transform: translateY(40px); transition: opacity 0.8s cubic-bezier(0.4,0,0.2,1), transform 0.8s cubic-bezier(0.4,0,0.2,1);">Explore</h1>
         <button id="detailsBtn" class="mt-8 md:mt-12 flex items-center text-white group" style="outline:none;">
-          <span class="w-10 h-10 flex items-center justify-center rounded-full border border-white mr-3 md:mr-4" style="background:transparent;">
+          <span class="w-10 h-10 flex items-center justify-center rounded-full border border-white mr-3 md:mr-4" style="background:#fff;">
             <svg width="28" height="28" viewBox="0 0 43 43" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M21.5 13V30" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
-              <path d="M13 21.5H30" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+              <path d="M21.5 13V30" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+              <path d="M13 21.5H30" stroke="#333" stroke-width="2" stroke-linecap="round"/>
             </svg>
           </span>
           <span class="text-lg md:text-xl font-medium">More Details</span>
