@@ -588,7 +588,7 @@ body, h1, h2, h3, h4, h5, h6 {
     max-width: 370px;
     margin: 0 auto;
     overflow-y: auto;
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
   }
